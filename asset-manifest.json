@@ -9,8 +9,8 @@
     "runtime-main.js": "http://gongswap.qksoftz.com/static/js/runtime-main.a2bc4b85.js",
     "runtime-main.js.map": "http://gongswap.qksoftz.com/static/js/runtime-main.a2bc4b85.js.map",
     "static/css/4.fc2adb62.chunk.css": "http://gongswap.qksoftz.com/static/css/4.fc2adb62.chunk.css",
-    "static/js/4.127bdbaa.chunk.js": "http://gongswap.qksoftz.com/static/js/4.127bdbaa.chunk.js",
-    "static/js/4.127bdbaa.chunk.js.map": "http://gongswap.qksoftz.com/static/js/4.127bdbaa.chunk.js.map",
+    "static/js/4.f0d2ced2.chunk.js": "http://gongswap.qksoftz.com/static/js/4.f0d2ced2.chunk.js",
+    "static/js/4.f0d2ced2.chunk.js.map": "http://gongswap.qksoftz.com/static/js/4.f0d2ced2.chunk.js.map",
     "static/js/5.34f335a4.chunk.js": "http://gongswap.qksoftz.com/static/js/5.34f335a4.chunk.js",
     "static/js/5.34f335a4.chunk.js.map": "http://gongswap.qksoftz.com/static/js/5.34f335a4.chunk.js.map",
     "static/js/6.3a5ee23c.chunk.js": "http://gongswap.qksoftz.com/static/js/6.3a5ee23c.chunk.js",
@@ -24,7 +24,7 @@
     "index.html": "http://gongswap.qksoftz.com/index.html",
     "static/css/4.fc2adb62.chunk.css.map": "http://gongswap.qksoftz.com/static/css/4.fc2adb62.chunk.css.map",
     "static/js/0.9fcb9f8e.chunk.js.LICENSE.txt": "http://gongswap.qksoftz.com/static/js/0.9fcb9f8e.chunk.js.LICENSE.txt",
-    "static/js/4.127bdbaa.chunk.js.LICENSE.txt": "http://gongswap.qksoftz.com/static/js/4.127bdbaa.chunk.js.LICENSE.txt",
+    "static/js/4.f0d2ced2.chunk.js.LICENSE.txt": "http://gongswap.qksoftz.com/static/js/4.f0d2ced2.chunk.js.LICENSE.txt",
     "static/js/5.34f335a4.chunk.js.LICENSE.txt": "http://gongswap.qksoftz.com/static/js/5.34f335a4.chunk.js.LICENSE.txt",
     "static/js/6.3a5ee23c.chunk.js.LICENSE.txt": "http://gongswap.qksoftz.com/static/js/6.3a5ee23c.chunk.js.LICENSE.txt",
     "static/js/9.4845d595.chunk.js.LICENSE.txt": "http://gongswap.qksoftz.com/static/js/9.4845d595.chunk.js.LICENSE.txt",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.a2bc4b85.js",
     "static/css/4.fc2adb62.chunk.css",
-    "static/js/4.127bdbaa.chunk.js",
+    "static/js/4.f0d2ced2.chunk.js",
     "static/js/main.ac88882c.chunk.js"
   ]
 }
